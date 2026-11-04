@@ -407,6 +407,7 @@ video::-webkit-media-controls {
 
 .button {
   border: 1.5px solid white;
+  border-radius: 25px;
   background: none;
   color: white;
   padding: 15px 15px;
